@@ -1,0 +1,1 @@
+./Debug/grafics.c.o ./Debug/LS_allegro.c.o ./Debug/main.c.o ./Debug/llistaPDI.c.o ./Debug/fitxers.c.o ./Debug/temps.c.o ./Debug/memoria.c.o ./Debug/logica.c.o   
